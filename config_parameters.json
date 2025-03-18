@@ -1,6 +1,6 @@
 {
     "Parameters": {
-        "KeyName": "NewKeys",
+        "KeyPair": "NewKeys",
        
     }
 }
